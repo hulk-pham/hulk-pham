@@ -1,23 +1,30 @@
-👋 Hi, I’m Hulk
+Here’s your updated **GitHub profile README** with social links:  
 
-I am a full-stack developer with expertise in the information technology industry. With 7+ years of experience in creating and delivering user-centric applications and solutions
+---
 
-I have received recognition throughout my career as a professional who is solution-focused and skilled at creating cutting-edge applications using cutting-edge technologies. In my current role as a freelance full-stack developer, I collaborate closely with various clients to develop and implement many web applications, ensuring optimal functionality, quality, and reliability. Please consider the following highlights of my career:
-- Strong proven experience in back-end technology such as Typescript, Node.JS, ExpressJS, NestJS, AdonisJS
-- Experience in the integration of TypeORM, Mongoose, Sequelize ORM, Lodash, and Moment.
-- Expert level and practical experience with RESTful API, Swagger documentation, Postman, GraphQL, Apollo Client/Server, and the gRPC Framework.
-- Experience in AWS Cloud-hosted applications preferred: S3, EC2, Lambda, Amplify, DynamoDB, ECR, ECS
-- Experience with Web Services RESTful API building, consuming & integrating 3rd Party APIs
-- Experience in setting up infrastructure Linux, Heroku, Virtual Machine and CI/CD pipeline like Gitlab CI/CD, Jenkins
-- Hands-on experience with Dockers, Kubernetes, Redis, Nginx, HAProxy
-- Experience in designing systems, Microservices, TDD, DDD, MV* Architecture
-- Relational and NoSQL database experience, such as MySQL, Postgres, MongoDB, and so on.
-- Experience in some other technologies, like React.js, Vue.js, React Native, Golang, Blockchain, Java, PHP, and Python.
-- Strong understanding of the software development life cycles
-- Deep understanding and interest in a wide range of technologies and design patterns
-- Review code of less senior team members and provide technical guidance. 
-takes initiative, exhibits creative thinking, has the drive to turn ideas into reality, and has a passion for the user experience.
-<!---
-hulk-pham/hulk-pham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Hulk 🚀  
+
+I’m a **full-stack developer** with 7+ years of experience crafting high-performance, user-centric applications. Passionate about **cutting-edge technologies**, I specialize in building scalable and reliable software solutions that drive real impact.  
+
+💡 Throughout my career, I’ve been recognized for my **solution-driven mindset**, creative problem-solving, and ability to design **robust architectures** that stand the test of time. As a freelance developer, I work closely with clients to **build and optimize web applications**, ensuring top-notch **functionality, quality, and reliability**.  
+
+### 🔥 My Tech Stack & Expertise  
+✅ **Back-end Technologies:** TypeScript, Node.js, Express.js, NestJS, AdonisJS  
+✅ **ORM & Data Handling:** TypeORM, Mongoose, Sequelize, Lodash, Moment.js  
+✅ **API & Integration:** RESTful APIs, GraphQL (Apollo Client/Server), Swagger, gRPC  
+✅ **Cloud & DevOps:** AWS (S3, EC2, Lambda, DynamoDB, ECR, ECS, Amplify), Docker, Kubernetes, Redis, Nginx, HAProxy  
+✅ **Infrastructure & CI/CD:** Linux, Heroku, Virtual Machines, GitLab CI/CD, Jenkins  
+✅ **Software Architecture:** Microservices, TDD, DDD, MV* patterns  
+✅ **Databases:** MySQL, PostgreSQL, MongoDB  
+✅ **Front-end & Other Tech:** React.js, Vue.js, React Native, Golang, Blockchain, Java, PHP, Python  
+
+### 🚀 What Drives Me?  
+- Building scalable and **high-performance** applications  
+- Designing intuitive **user experiences**  
+- Exploring new **technologies and design patterns**  
+- Mentoring and reviewing code to **elevate teams**  
+
+I **take initiative**, think **outside the box**, and love turning **ideas into reality**. Whether it's optimizing existing systems or creating something from scratch, I'm always up for the challenge!  
+
+📫 **Let’s connect and build something amazing!**  
+🌍 [**Portfolio**](https://hulk-pham.vercel.app/) | 🔗 [**LinkedIn**](https://www.linkedin.com/in/hulk-pham/)  
