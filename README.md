@@ -1,7 +1,3 @@
-Here’s your updated **GitHub profile README** with social links:  
-
----
-
 # 👋 Hi, I’m Hulk 🚀  
 
 I’m a **full-stack developer** with 7+ years of experience crafting high-performance, user-centric applications. Passionate about **cutting-edge technologies**, I specialize in building scalable and reliable software solutions that drive real impact.  
