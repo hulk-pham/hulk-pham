@@ -5,21 +5,29 @@ I’m a **full-stack developer** with 8+ years of experience crafting high-perfo
 💡 Throughout my career, I’ve been recognized for my **solution-driven mindset**, creative problem-solving, and ability to design **robust architectures** that stand the test of time. As a freelance developer, I work closely with clients to **build and optimize web applications**, ensuring top-notch **functionality, quality, and reliability**.  
 
 ### 🔥 My Tech Stack & Expertise  
-✅ **Back-end Technologies:** TypeScript, Node.js, Express.js, NestJS, AdonisJS
+✅ **Back-end Technologies**:
+TypeScript, Node.js, Express.js, NestJS, AdonisJS, Fastify, Bun.js, tRPC
 
-✅ **LLM/Deep Learning:** Tensorflow, Langchain, ChromaDB, Langgraph, CrewAI
+✅ **LLM / Deep Learning**:
+Tensorflow, Langchain, ChromaDB, Langgraph, CrewAI, OpenAI API, Hugging Face Transformers, MCP server
 
-✅ **API & Integration:** RESTful APIs, GraphQL (Apollo Client/Server), Swagger, gRPC  
+✅ **API & Integration**:
+RESTful APIs, GraphQL (Apollo Client/Server), Swagger, gRPC
 
-✅ **Cloud & DevOps:** AWS (S3, EC2, Lambda, DynamoDB, ECR, ECS, Amplify), Docker, Kubernetes, Redis, Nginx, HAProxy  
+✅ **Cloud & DevOps**:
+AWS, Docker, Kubernetes, Redis, Nginx, HAProxy, Vercel, Fly.io, Google Cloud (Vertex AI, Firestore), Azure Functions
 
-✅ **Infrastructure & CI/CD:** Linux, Heroku, Virtual Machines, GitLab CI/CD, Jenkins  
+✅ **Infrastructure & CI/CD**:
+Linux, Heroku, Virtual Machines, GitLab CI/CD, Jenkins, Ansible, GitHub Actions, Argo CD
 
-✅ **Software Architecture:** Microservices, TDD, DDD, MV* patterns  
+✅ **Software Architecture**:
+Microservices, TDD, DDD, MV* patterns, Event-Driven Architecture, Serverless Architecture, CQRS, Hexagonal Architecture (Ports and Adapters)
 
-✅ **Databases:** MySQL, PostgreSQL, MongoDB  
+✅ **Databases**:
+MySQL, PostgreSQL, MongoDB, Redis, SQLite, MariaDB, Elasticsearch
 
-✅ **Front-end & Other Tech:** React.js, Vue.js, React Native, Golang, Blockchain, Java, PHP, Python  
+✅ **Front-end & Other Tech**:
+React.js, Vue.js, React Native, Golang, Blockchain, Java, PHP, Python, Next.js, Remix, Tailwind CSS
 
 ### 🚀 What Drives Me?  
 - Building scalable and **high-performance** applications  
