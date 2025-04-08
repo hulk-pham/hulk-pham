@@ -6,12 +6,19 @@ I’m a **full-stack developer** with 8+ years of experience crafting high-perfo
 
 ### 🔥 My Tech Stack & Expertise  
 ✅ **Back-end Technologies:** TypeScript, Node.js, Express.js, NestJS, AdonisJS
+
 ✅ **LLM/Deep Learning:** Tensorflow, Langchain, ChromaDB, Langgraph, CrewAI
+
 ✅ **API & Integration:** RESTful APIs, GraphQL (Apollo Client/Server), Swagger, gRPC  
+
 ✅ **Cloud & DevOps:** AWS (S3, EC2, Lambda, DynamoDB, ECR, ECS, Amplify), Docker, Kubernetes, Redis, Nginx, HAProxy  
+
 ✅ **Infrastructure & CI/CD:** Linux, Heroku, Virtual Machines, GitLab CI/CD, Jenkins  
+
 ✅ **Software Architecture:** Microservices, TDD, DDD, MV* patterns  
+
 ✅ **Databases:** MySQL, PostgreSQL, MongoDB  
+
 ✅ **Front-end & Other Tech:** React.js, Vue.js, React Native, Golang, Blockchain, Java, PHP, Python  
 
 ### 🚀 What Drives Me?  
